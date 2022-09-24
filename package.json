@@ -1,0 +1,24 @@
+{
+  "name": "crud_mern_stack",
+  "version": "1.0.0",
+  "description": "tabajo practico curso UTN",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miradacsc/CRUD_MERN_STACK.git"
+  },
+  "author": "Claudia S Cabrera",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/miradacsc/CRUD_MERN_STACK/issues"
+  },
+  "homepage": "https://github.com/miradacsc/CRUD_MERN_STACK#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "nodemon": "^2.0.20"
+  }
+}
