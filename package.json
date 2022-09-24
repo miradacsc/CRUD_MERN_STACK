@@ -19,6 +19,7 @@
   "homepage": "https://github.com/miradacsc/CRUD_MERN_STACK#readme",
   "dependencies": {
     "express": "^4.18.1",
+    "mongoose": "^6.6.1",
     "nodemon": "^2.0.20"
   }
 }

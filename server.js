@@ -1,6 +1,10 @@
 const express = require('express')
 const app = express()
 
+
+//Importando conexion mongoDB
+const archivoBD = require('./conexion')
+
 app.get('/', (req,res) => {
     res.end('Bienvenidos al servidor backend Node.js. Corriendo')
 })
